@@ -1,4 +1,4 @@
-## Module One ##
+## Module Two ##
 
 * All static files goes to `static`
 * All html templates goes to `templates`
