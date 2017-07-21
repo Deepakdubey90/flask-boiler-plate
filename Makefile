@@ -23,4 +23,4 @@ run:
 	. env/bin/activate
 	PYTHONPATH=$(PWD) FLASK_APP=app python -m flask run -h 0.0.0.0 -p 8000
 
-all: clean install test run
+all: clean install tests run
